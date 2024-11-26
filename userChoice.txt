@@ -1,0 +1,6 @@
+0) exit 
+1) load default game 
+2) load a game file 
+3) save the current game 
+4) edit or add a node 
+5) play the current game 
